@@ -1,10 +1,6 @@
 # 荒原之梦考研数学网
 
-----
-
 ## 简介
-
-----
 
 [官网](https://zhaokaifeng.com/) | [讨论区](https://github.com/zhaokaifengcom/zhaokaifengcom/discussions)
 
@@ -26,20 +22,14 @@
 
 ## 导览
 
-----
-
 [最新文章](https://zhaokaifeng.com/index/post/) | [高数笔记](https://zhaokaifeng.com/further-mathematics-latest-posts-page1/) | [线代笔记](https://zhaokaifeng.com/index/linear-algebra-latest-posts-page1/) | [概率笔记](https://zhaokaifeng.com/index/probability-and-statistics-latest-posts-page1/)
 
 ## 联系
-
-----
 
 邮箱：hyzmky@163.com
 微信：zhaokaifeng24
 公众号：荒原之梦网、荒原之梦考研数学
 
 ## 版权
-
-----
 
 荒原之梦考研数学原创的内容中有免费内容，也有付费内容，但无论是免费还是付费内容，都只提供于真正的考研学生，用于个人学习只用，禁止任何单位或个人以推广或盈利为目的使用部分或全部内容，禁止任何单位或个人在使用荒原之梦考研数学相关学习资源的同时损害荒原之梦考研数学的合理合法利益。
