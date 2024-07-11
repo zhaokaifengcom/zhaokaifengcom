@@ -2,7 +2,7 @@
 
 ## 简介
 
-[官网](https://zhaokaifeng.com/) | [讨论区](https://github.com/zhaokaifengcom/zhaokaifengcom/discussions)
+[官网](https://zhaokaifeng.com/) | [讨论区](https://github.com/zhaokaifengcom/zhaokaifengcom/discussions) | [日志](log/README.md)
 
 我想做这样一个考研数学的学习平台：
 
@@ -26,9 +26,9 @@
 
 ## 联系
 
-邮箱：hyzmky@163.com
-微信：zhaokaifeng24
-公众号：荒原之梦网、荒原之梦考研数学
+- 邮箱：hyzmky@163.com
+- 微信：zhaokaifeng24
+- 公众号：荒原之梦网、荒原之梦考研数学
 
 ## 版权
 
