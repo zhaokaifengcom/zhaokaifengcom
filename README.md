@@ -26,7 +26,8 @@
 
 ## 联系
 
-- 邮箱：hyzmky@163.com
+- 官网：zhaokaifeng.com
+- 邮箱：zhaokaifeng.com@gmail.com
 - 微信：zhaokaifeng24
 - 公众号：荒原之梦网、荒原之梦考研数学
 
