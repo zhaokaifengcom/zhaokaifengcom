@@ -28,8 +28,8 @@
 
 - 官网：zhaokaifeng.com
 - 邮箱：zhaokaifeng.com@gmail.com
-- 微信：zhaokaifeng24
-- 公众号：荒原之梦网、荒原之梦考研数学
+- 微信：hyzmky
+- 公众号：荒原之梦考研、荒原之梦考研数学
 
 ## 版权
 
