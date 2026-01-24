@@ -12,11 +12,11 @@
 
 ## 最新的考研数学原创讲义
 <!-- BLOG-POST-LIST:START -->
+- [峰图 | 如何理解线性微分方程的“叠加原理”？](https://zhaokaifeng.com/23847/)
 - [如何理解微分方程的线性和非线性概念？](https://zhaokaifeng.com/23845/)
 - [峰图 | 关于图形动态等价原理的解释](https://zhaokaifeng.com/23837/)
 - [通过常用的“基本正交矩阵”快速解题](https://zhaokaifeng.com/23823/)
 - [可分离变量微分方程的两种形式：导数形式和微分形式](https://zhaokaifeng.com/23810/)
-- [微分方程的分类：常微分方程和偏微分方程](https://zhaokaifeng.com/23807/)
 <!-- BLOG-POST-LIST:END -->
 
 荒原之梦考研数学网就像是一个纽带，在纽带的一端，是一台电脑、一摞草稿纸、一个人；在纽带的另一端，则是来自全国各地各大院校的莘莘学子，也就是屏幕面前的你。
