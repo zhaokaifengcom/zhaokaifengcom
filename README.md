@@ -12,11 +12,11 @@
 
 ## 最新的考研数学原创讲义
 <!-- BLOG-POST-LIST:START -->
-- [非线性微分方程会存在通解吗？](https://zhaokaifeng.com/23862/)
-- [峰说 | 寒假在家自学，怎么保持专注？](https://zhaokaifeng.com/23860/)
-- [微分方程的通解和特解](https://zhaokaifeng.com/23856/)
-- [峰图 | 如何理解线性微分方程的“叠加原理”？](https://zhaokaifeng.com/23847/)
-- [如何理解微分方程的线性和非线性概念？](https://zhaokaifeng.com/23845/)
+- [齐次函数详解与示例](https://zhaokaifeng.com/23940/)
+- [考研数学中常见的数字类别及符号表示](https://zhaokaifeng.com/23886/)
+- [欧拉方程详解](https://zhaokaifeng.com/23883/)
+- [泰勒公式 VS 拆项变形，哪种解法更简单？](https://zhaokaifeng.com/23880/)
+- [2026年考研数二第02题解析：非齐次线性微分方程的解](https://zhaokaifeng.com/23874/)
 <!-- BLOG-POST-LIST:END -->
 
 荒原之梦考研数学网就像是一个纽带，在纽带的一端，是一台电脑、一摞草稿纸、一个人；在纽带的另一端，则是来自全国各地各大院校的莘莘学子，也就是屏幕面前的你。
