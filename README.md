@@ -12,11 +12,11 @@
 
 ## 最新的考研数学原创讲义
 <!-- BLOG-POST-LIST:START -->
+- [一元函数一点处极限的性质之局部保序性](https://zhaokaifeng.com/24659/)
+- [一元函数一点处极限的性质之唯一性](https://zhaokaifeng.com/24654/)
 - [一元函数一点处极限的定义](https://zhaokaifeng.com/24652/)
 - [转置不会改变行列式的值](https://zhaokaifeng.com/24635/)
 - [2022考研数二第22题解析：二次型、正交变换、标准型](https://zhaokaifeng.com/24625/)
-- [全面理解正交向量与正交矩阵](https://zhaokaifeng.com/24623/)
-- [单位向量的定义、示例与转换方法](https://zhaokaifeng.com/24621/)
 <!-- BLOG-POST-LIST:END -->
 
 荒原之梦考研数学网就像是一个纽带，在纽带的一端，是一台电脑、一摞草稿纸、一个人；在纽带的另一端，则是来自全国各地各大院校的莘莘学子，也就是屏幕面前的你。
