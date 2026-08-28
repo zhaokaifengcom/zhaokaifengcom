@@ -12,11 +12,11 @@
 
 ## 最新的考研数学原创讲义
 <!-- BLOG-POST-LIST:START -->
+- [一元函数一点处极限的运算之相乘运算](https://zhaokaifeng.com/24671/)
 - [一元函数一点处极限的运算之相加运算](https://zhaokaifeng.com/24669/)
 - [一元函数一点处极限的性质之夹逼性](https://zhaokaifeng.com/24667/)
 - [一元函数一点处极限的性质之局部有界性](https://zhaokaifeng.com/24663/)
 - [一元函数一点处极限的性质之局部保不等式性](https://zhaokaifeng.com/24661/)
-- [一元函数一点处极限的性质之局部保序性](https://zhaokaifeng.com/24659/)
 <!-- BLOG-POST-LIST:END -->
 
 荒原之梦考研数学网就像是一个纽带，在纽带的一端，是一台电脑、一摞草稿纸、一个人；在纽带的另一端，则是来自全国各地各大院校的莘莘学子，也就是屏幕面前的你。
