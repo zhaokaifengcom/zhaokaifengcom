@@ -12,11 +12,11 @@
 
 ## 最新的考研数学原创讲义
 <!-- BLOG-POST-LIST:START -->
+- [二元函数二重极限和累次极限习题（01）](https://zhaokaifeng.com/24687/)
 - [峰图 | AI 能力的边界是什么？人类能力的优势是什么？](https://zhaokaifeng.com/24683/)
 - [峰图 | 基于空间占用率推广定义的“超元相等”](https://zhaokaifeng.com/24679/)
 - [柯西–施瓦茨不等式及其证明](https://zhaokaifeng.com/24676/)
 - [一元函数一点处极限的运算之相除运算](https://zhaokaifeng.com/24674/)
-- [一元函数一点处极限的运算之相乘运算](https://zhaokaifeng.com/24671/)
 <!-- BLOG-POST-LIST:END -->
 
 荒原之梦考研数学网就像是一个纽带，在纽带的一端，是一台电脑、一摞草稿纸、一个人；在纽带的另一端，则是来自全国各地各大院校的莘莘学子，也就是屏幕面前的你。
